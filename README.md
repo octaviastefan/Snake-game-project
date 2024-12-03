@@ -1,5 +1,5 @@
 # Snake game project
-This repository contains information about the development of a educational project for university, related to the subject of Introduction to Robotics.
+This repository contains information about the development of an educational project for university, related to the subject of Introduction to Robotics.
 
 <details>
   <summary> <h2>  Introduction </h2> </summary>
