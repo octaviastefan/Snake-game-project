@@ -7,6 +7,7 @@ This repository contains information about the development of a project for univ
 ##
   
  
+Through this project, I want to create a version of the famous Snake game, well-known, played, and loved by many generations.
   
 ##
 </details>
