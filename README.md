@@ -61,16 +61,18 @@ The Snake game is probably the most intuitive and easy to play game in the world
 
  ### 4. Bill of Materials:
 
- | *Nr.* | *Component*         | *Cantitate* | *Descriere*                          | *Link/Datasheet*                                                                 |
-|---------|-----------------------|---------------|----------------------------------------|----------------------------------------------------------------------------------|
-| *1*   | Arduino Uno           | 1             | Microcontroller principal              | [Arduino Kit](#)                                                                        |
-| *2*   | Matrice LED 8x8       | 1             | Controlată prin MAX7219                |  |
-| *3*   | LCD 16x2 (fără I2C)   | 1             | Afișaj                                 | [Arduino Kit](#)                                                                        |
-| *4*   | Joystick              | 1             | Control pentru mișcări și selecții     | [Arduino Kit](#)                                                                        |
-| *5*   | Buzzer                | 1             | Generare sunete                        | [Arduino Kit](#)                                                                        |
-| *6*   | Cabluri (Jumper Wires)| 20+           | Conexiuni electrice                    | [Arduino Kit](#)                                                                        |
-| *7*   | Breadboard            | 1             | Platformă pentru prototipare           | [Arduino Kit](#)                                                                        |
-| *8*   | Mini Breadboard       | 1             | Prototipare pentru componente mici     | [Arduino Kit](#)                                                                        |
+
+| *No.* | *Component*                 | *Quantity*    | *Description*                         |*Link/Datasheet* 
+|-------|-----------------------------|---------------|---------------------------------------|----------------------------------------------------------------------------------|
+| *1*   | Arduino Uno                 | 1             | Central microcontroller               | [Kit](#)                                                                         |
+| *2*   | 8x8 LED Matrix (MAX7219)    | 1             | Controlled via MAX7219 (SPI protocol) | [MAX7219 Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/MAX7219-MAX7221.pdf) |
+| *3*   | Joystick                    | 1             | For snake movement control            | [Kit](#)                                                                         |
+| *4*   | Buzzer                      | 1             | For sound effects                     | [Kit](#)                                                                         |
+| *5*   | Potentiometer (Volume)      | 1             | Adjusts buzzer volume                 | [Kit](#)                                                                         |
+| *6*   | Potentiometer (LCD Contrast)| 1             | Adjusts LCD screen contrast           | [Kit](#)                                                                         |
+| *7*   | Jumper Cables               | 20+           | Electrical connections                | [Kit](#)                                                                         |
+| *8*   | Breadboard                  | 1             | For prototyping                       | [Kit](#)                                                                         |
+
 
 ##
 </details>
