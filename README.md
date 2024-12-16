@@ -64,14 +64,14 @@ The Snake game is probably the most intuitive and easy to play game in the world
 
 | *No.* | *Component*                 | *Quantity*    | *Description*                         |*Link/Datasheet* 
 |-------|-----------------------------|---------------|---------------------------------------|----------------------------------------------------------------------------------|
-| *1*   | Arduino Uno                 | 1             | Central microcontroller               | [Kit](#)                                                                         |
+| *1*   | Arduino Uno                 | 1             | Central microcontroller               | [Ardino Kit](#)                                                                         |
 | *2*   | 8x8 LED Matrix (MAX7219)    | 1             | Controlled via MAX7219 (SPI protocol) | [MAX7219 Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/MAX7219-MAX7221.pdf) |
-| *3*   | Joystick                    | 1             | For snake movement control            | [Kit](#)                                                                         |
-| *4*   | Buzzer                      | 1             | For sound effects                     | [Kit](#)                                                                         |
-| *5*   | Potentiometer (Volume)      | 1             | Adjusts buzzer volume                 | [Kit](#)                                                                         |
-| *6*   | Potentiometer (LCD Contrast)| 1             | Adjusts LCD screen contrast           | [Kit](#)                                                                         |
-| *7*   | Jumper Cables               | 20+           | Electrical connections                | [Kit](#)                                                                         |
-| *8*   | Breadboard                  | 1             | For prototyping                       | [Kit](#)                                                                         |
+| *3*   | Joystick                    | 1             | For snake movement control            | [Arduino Kit](#)                                                                         |
+| *4*   | Buzzer                      | 1             | For sound effects                     | [Arduino Kit](#)                                                                         |
+| *5*   | Potentiometer (Volume)      | 1             | Adjusts buzzer volume                 | [Arduino Kit](#)                                                                         |
+| *6*   | Potentiometer (LCD Contrast)| 1             | Adjusts LCD screen contrast           | [Arduino Kit](#)                                                                         |
+| *7*   | Jumper Cables               | more than 20  | Electrical connections                | [Arduino Kit](#)                                                                         |
+| *8*   | Breadboard                  | 1             | For prototyping                       | [Arduino Kit](#)                                                                         |
 
 
 ##
