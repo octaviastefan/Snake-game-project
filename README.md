@@ -37,6 +37,18 @@ The Snake game is probably the most intuitive and easy to play game in the world
    
   
 ##
+ 
+ -   Arduino Uno (the central microcontroller that controls the entire game)
+ -   8x8 LED Matrix (displays the game grid for Snake. The LEDs represent the snake's body and the food.)
+ -   Joystick (controls the snake's movement)
+ -   Buzzer (for sound effects based on game actions)
+ -   Potentiometer (LCD)
+ -   LCD (Displays game-related information such as the score, game status, or instructions.)
+ -   Jumper Cables
+ -   Mini breadboard
+ -   Breadboard   
+ 
+                                                                         
 
 ##
 
