@@ -113,6 +113,15 @@ The Snake game is probably the most intuitive and easy to play game in the world
 | *Breadboard and Jumper Wires| **-*                       | *-*                     | Electrical connections             |
 
 ##
+
+##
+
+### 6. Physical circuit
+![WhatsApp Image 2024-12-17 at 18 18 54_24179fda](https://github.com/user-attachments/assets/b66a575a-dfcd-4397-84de-7ab88915d308)
+![WhatsApp Image 2024-12-17 at 18 18 48_4e2787dc](https://github.com/user-attachments/assets/1f8af41e-9934-4a9b-b3c7-b67220a03fd3)
+
+
+##
 </details>
 
 <details>
