@@ -88,6 +88,29 @@ The Snake game is probably the most intuitive and easy to play game in the world
 
 
 ##
+
+##
+
+### Pin Connections Table
+
+| *Component*                 | *Arduino Uno Pin*          | *Component Pin*         | *Description*                    |
+|-------------------------------|-----------------------------|---------------------------|------------------------------------|
+| *8x8 LED Matrix (MAX7219)*  | *D11*                     | *DIN*                   | Data Input (SPI communication)     |
+|                               | *D13*                     | *CLK*                   | Clock Signal (SPI)                 |
+|                               | *D10*                     | *CS*                    | Chip Select (SPI enable)           |
+| *Joystick*                  | *A1*                      | *VRx*                   | Horizontal movement input          |
+|                               | *A0*                      | *VRy*                   | Vertical movement input            |
+|                               | *D2*                      | *SW*                    | Button press detection             |
+| *Buzzer*                    | *D9*                      | *(+)*                   | PWM signal for sound generation    |
+| *Potentiometer (Volume)*    | *-*                       | *Buzzer Line*           | Adjusts buzzer volume              |
+| *Potentiometer (Contrast)*  | *-*                       | *VO (LCD)*              | Adjusts LCD screen contrast        |
+| *LCD 16x2 (without I2C)*    | *D4*                      | *RS*                    | Register Select                    |
+|                               | *D5*                      | *EN*                    | Enable Pin                         |
+|                               | *D6*                      | *D4*                    | Data Pin 4                         |
+|                               | *D7*                      | *D5*                    | Data Pin 5                         |
+|                               | *D8*                      | *D6*                    | Data Pin 6                         |
+|                               | *D9*                      | *D7*                    | Data Pin 7                         |
+| *Breadboard and Jumper Wires| **-*                       | *-*                     | Electrical connections             |
 </details>
 
 <details>
