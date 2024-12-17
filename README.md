@@ -65,7 +65,8 @@ The Snake game is probably the most intuitive and easy to play game in the world
 
  ### 3. Block diagram:
  
- ![Screenshot 2024-12-17 013321](https://github.com/user-attachments/assets/3a3e07b8-dfa5-4e6a-b948-c3737f4df663)
+ ![bloc](https://github.com/user-attachments/assets/887bbad6-df21-460f-b99d-891bc86f7299)
+
 
  ##
 
@@ -117,8 +118,10 @@ The Snake game is probably the most intuitive and easy to play game in the world
 ##
 
 ### 6. Physical circuit
-![WhatsApp Image 2024-12-17 at 18 18 54_24179fda](https://github.com/user-attachments/assets/b66a575a-dfcd-4397-84de-7ab88915d308)
+
 ![WhatsApp Image 2024-12-17 at 18 18 48_4e2787dc](https://github.com/user-attachments/assets/1f8af41e-9934-4a9b-b3c7-b67220a03fd3)
+![jjjj](https://github.com/user-attachments/assets/e33a907b-17c9-4f5b-b616-12a5dc05584a)
+
 
 
 ##
