@@ -91,7 +91,7 @@ The Snake game is probably the most intuitive and easy to play game in the world
 
 ##
 
-### Pin Connections Table
+### 5. Pin Connections Table
 
 | *Component*                 | *Arduino Uno Pin*          | *Component Pin*         | *Description*                    |
 |-------------------------------|-----------------------------|---------------------------|------------------------------------|
@@ -111,6 +111,8 @@ The Snake game is probably the most intuitive and easy to play game in the world
 |                               | *D8*                      | *D6*                    | Data Pin 6                         |
 |                               | *D9*                      | *D7*                    | Data Pin 7                         |
 | *Breadboard and Jumper Wires| **-*                       | *-*                     | Electrical connections             |
+
+##
 </details>
 
 <details>
