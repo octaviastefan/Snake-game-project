@@ -54,7 +54,7 @@ The Snake game is probably the most intuitive and easy to play game in the world
 
  ### 2. Electrical schematic (Wokwi) :
 
- ![svhema wowki](https://github.com/user-attachments/assets/e8a04750-0624-430e-b085-47034f91a521)
+ 
 
  
 
@@ -98,19 +98,18 @@ The Snake game is probably the most intuitive and easy to play game in the world
 |-------------------------------|-----------------------------|---------------------------|------------------------------------|
 | *8x8 LED Matrix (MAX7219)*  | *D11*                     | *DIN*                   | Data Input (SPI communication)     |
 |                               | *D13*                     | *CLK*                   | Clock Signal (SPI)                 |
-|                               | *D10*                     | *CS*                    | Chip Select (SPI enable)           |
+|                               | *D12*                     | *CS*                    | Chip Select (SPI enable)           |
 | *Joystick*                  | *A1*                      | *VRx*                   | Horizontal movement input          |
 |                               | *A0*                      | *VRy*                   | Vertical movement input            |
-|                               | *D2*                      | *SW*                    | Button press detection             |
-| *Buzzer*                    | *D9*                      | *(+)*                   | PWM signal for sound generation    |
-| *Potentiometer (Volume)*    | *-*                       | *Buzzer Line*           | Adjusts buzzer volume              |
+|                               | *D4*                      | *SW*                    | Button press detection             |
+| *Buzzer*                    | *D3*                      | *(+)*                   | PWM signal for sound generation    |
 | *Potentiometer (Contrast)*  | *-*                       | *VO (LCD)*              | Adjusts LCD screen contrast        |
-| *LCD 16x2 (without I2C)*    | *D4*                      | *RS*                    | Register Select                    |
-|                               | *D5*                      | *EN*                    | Enable Pin                         |
-|                               | *D6*                      | *D4*                    | Data Pin 4                         |
-|                               | *D7*                      | *D5*                    | Data Pin 5                         |
-|                               | *D8*                      | *D6*                    | Data Pin 6                         |
-|                               | *D9*                      | *D7*                    | Data Pin 7                         |
+| *LCD 16x2 (without I2C)*    | *D5*                      | *RS*                    | Register Select                    |
+|                               | *D6*                      | *EN*                    | Enable Pin                         |
+|                               | *D7*                      | *D4*                    | Data Pin 4                         |
+|                               | *D8*                      | *D5*                    | Data Pin 5                         |
+|                               | *D9*                      | *D6*                    | Data Pin 6                         |
+|                               | *D10*                      | *D7*                    | Data Pin 7                         |
 | *Breadboard and Jumper Wires| **-*                       | *-*                     | Electrical connections             |
 
 ##
@@ -119,8 +118,7 @@ The Snake game is probably the most intuitive and easy to play game in the world
 
 ### 6. Physical circuit
 
-![WhatsApp Image 2024-12-17 at 18 18 48_4e2787dc](https://github.com/user-attachments/assets/1f8af41e-9934-4a9b-b3c7-b67220a03fd3)
-![jjjj](https://github.com/user-attachments/assets/e33a907b-17c9-4f5b-b616-12a5dc05584a)
+
 
 
 
