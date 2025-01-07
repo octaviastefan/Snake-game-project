@@ -135,17 +135,23 @@ This Snake Game on Arduino is a project that uses an 8x8 LED matrix to display t
   ### Development enviroment:
   
   I will use the PlatformIO IDE extension.
+  
   The libraries used in the code are:
   - LedControl.h
+  - 
 This library is used to control the 8x8 LED matrix connected through the MAX7219 driver.
+
 Why did I use this library?
 1.It simplifies managing LED matrices.
 2.It provides functions like setLed() and setRow() to easily turn LEDs on or off.
 3.It allows us to adjust brightness with setIntensity() and clear the display with clearDisplay().
+
  - LiquidCrystal.h
+
 This library is used to control an LCD display.
 Why did I use this library?
 To display game information such as score and menu on an LCD.
+
  - Arduino.h
    The core library that provides essential functions for the project.
 
