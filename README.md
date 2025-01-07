@@ -166,18 +166,21 @@ To display game information such as score and menu on an LCD.
 ##
 ### The laboratories used:
  - Lab 2: Interrupts. Timers
- - 
+   
 The game uses default timers to control the snake's movement update and to introduce precise delays.
 The delay() functions and joystick reading (analogRead()) are synchronized with the game's execution times.
+
  -  Lab 3: PWM (Pulse Width Modulation)
 
 The buzzer uses PWM to generate sounds at the beginning of the game, when eating food, and at the end of the game.
 The tone() function uses PWM to control the frequency and duration of the sounds.
 
  -   Lab 4: ADC (Analog-to-Digital Converter)
+ -   
    ADC is used to read the joystick's position.
 
  -    Lab 5: SPI (Serial Peripheral Interface)
+ -    
  SPI is used to control the LED matrix.
 ##
 
