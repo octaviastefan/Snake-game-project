@@ -198,7 +198,72 @@ The tone() function uses PWM to control the frequency and duration of the sounds
 
 <details>
   <summary><h2> The functionality of the game </h2> </summary>
-  ##
+   1. Game Menu:
+  
+The game starts with a menu system displayed on the LCD screen.
+The menu has 3 options:
+- Start Game – Begin the Snake game.
+- Leaderboard – View the top 5 player scores.
+- Settings – Adjust game settings (e.g., sound ON/OFF).
+- Joystick is used to navigate through the menu, and the button selects an option.
+  
+ 2. Snake Movement:
+  
+The snake moves on the 8x8 LED matrix.
+The joystick controls the direction:
+
+Up (Y-axis)
+
+Down (Y-axis)
+
+Left (X-axis)
+
+Right (X-axis)
+
+ 3. Food Generation:
+    
+Random food appears on the matrix.
+
+When the snake eats the food:
+- The snake grows longer.
+- The score increases by 1.
+- A sound effect is played via the buzzer.
+  
+ 4. Collision Detection:
+  
+The game ends if:
+- The snake's head touches its own body.
+- The snake moves off the matrix boundaries (handled by wrapping around the matrix).
+  
+ 5. Score Display:
+  
+- The current score is shown on the LCD screen.
+- The score updates in real-time as the snake eats food.
+  
+ 6. Game Over & Restart:
+    
+When the snake dies:
+
+- A sad face is displayed on the LED matrix.
+- The game shows "Game Over!" on the LCD.
+- The player can restart the game by pressing the joystick button.
+  
+ 7. Sound Effects (Buzzer):
+    
+- Sound at game start.
+- Sound when the snake eats food.
+- Sound at game over.
+  
+ 8. Leaderboard:
+
+- After the game ends, the player's score is saved on a leaderboard.
+- The leaderboard shows top 5 scores along with player names ("Player 1", "Player 2", etc.).
+- If the current score is higher than one of the top scores, it replaces the lowest score.
+  
+ 9. Smiley and Sad Faces:
+ 10. 
+- Smiley face appears on the LED matrix at the start of the game.
+- Sad face appears when the game ends.
   
   ##
 </details>
