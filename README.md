@@ -212,17 +212,14 @@ The menu has 3 options:
 The snake moves on the 8x8 LED matrix.
 The joystick controls the direction:
 
-Up (Y-axis)
-
-Down (Y-axis)
-
-Left (X-axis)
-
-Right (X-axis)
+- Up (Y-axis)
+- Down (Y-axis)
+- Left (X-axis)
+- Right (X-axis)
 
  3. Food Generation:
     
-Random food appears on the matrix.
+- Random food appears on the matrix.
 
 When the snake eats the food:
 - The snake grows longer.
@@ -261,7 +258,7 @@ When the snake dies:
 - If the current score is higher than one of the top scores, it replaces the lowest score.
   
  9. Smiley and Sad Faces:
- 10. 
+     
 - Smiley face appears on the LED matrix at the start of the game.
 - Sad face appears when the game ends.
   
