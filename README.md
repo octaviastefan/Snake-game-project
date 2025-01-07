@@ -269,7 +269,7 @@ When the snake dies:
   <summary> <h2> Conclusions </h2> </summary>
 
   ##
-  
+  This project was an excellent opportunity to integrate the theory learned in  labs into practice. In conclusion, the Snake Game project  is a practical, interactive application that integrates fundamental concepts from embedded systems. I used hardware components such as an 8x8 LED matrix, a joystick, an LCD display, and a buzzer, with the game being controlled by an Arduino UNO microcontroller.
   
 ##
 </details>
