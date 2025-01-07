@@ -20,9 +20,8 @@ The idea for this project came from the desire to develop my own version of the 
 
   ##
   
-The Snake game is probably the most intuitive and easy to play game in the world. Basically, the snake must eat as much food as possible without hitting itself. At the beginning of the game, as well as the first level, the snake starts small. As it eats, it grows, and along with it, the score increases. Naturally, the game also becomes more challenging.
+This Snake Game on Arduino is a project that uses an 8x8 LED matrix to display the snake, an LCD screen to show game information like the score, and a joystick for controlling the snake's movement. The game also includes sound effects via a buzzer, and a menu system to navigate through different game options.
 
-<< TO BE CONTINUED >>
 
 ##
 </details>
@@ -136,6 +135,24 @@ The Snake game is probably the most intuitive and easy to play game in the world
   ### Development enviroment:
   
   I will use the PlatformIO IDE extension.
+  The libraries used in the code are:
+  - LedControl.h
+This library is used to control the 8x8 LED matrix connected through the MAX7219 driver.
+Why did I use this library?
+1.It simplifies managing LED matrices.
+2.It provides functions like setLed() and setRow() to easily turn LEDs on or off.
+3.It allows us to adjust brightness with setIntensity() and clear the display with clearDisplay().
+ - LiquidCrystal.h
+This library is used to control an LCD display.
+Why did I use this library?
+To display game information such as score and menu on an LCD.
+ - Arduino.h
+   The core library that provides essential functions for the project.
+
+
+  
+
+  
 
   
    
