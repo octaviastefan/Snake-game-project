@@ -65,8 +65,9 @@ The Snake game is probably the most intuitive and easy to play game in the world
  ##
 
  ### 3. Block diagram:
+ ![schema_bloc](https://github.com/user-attachments/assets/0897c971-217f-4feb-9daf-7f930bafa78c)
+
  
- ![bloc](https://github.com/user-attachments/assets/887bbad6-df21-460f-b99d-891bc86f7299)
 
 
  ##
