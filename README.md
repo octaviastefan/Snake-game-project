@@ -119,7 +119,9 @@ The Snake game is probably the most intuitive and easy to play game in the world
 
 ### 6. Physical circuit
 
+![photo1](https://github.com/user-attachments/assets/21958f99-fcc6-423c-8963-dca23168e600)
 
+![photo2](https://github.com/user-attachments/assets/96250cb1-8123-4d5a-a576-413d7310a64a)
 
 
 
