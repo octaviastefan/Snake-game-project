@@ -191,16 +191,23 @@ The tone() function uses PWM to control the frequency and duration of the sounds
   <summary> <h2> Results </h2> </summary>
 
   ##
-   
+   https://youtube.com/shorts/yoB0ctfPKP4?si=JwMzrzmz2Dtp2j4v
   
 ##
+</details>
+
+<details>
+  <summary><h2> The functionality of the game </h2> </summary>
+  ##
+  
+  ##
 </details>
 
 <details>
   <summary> <h2> Conclusions </h2> </summary>
 
   ##
-  https://youtube.com/shorts/yoB0ctfPKP4?si=JwMzrzmz2Dtp2j4v 
+  
   
 ##
 </details>
