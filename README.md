@@ -54,7 +54,8 @@ The Snake game is probably the most intuitive and easy to play game in the world
 
  ### 2. Electrical schematic (Wokwi) :
 
- 
+ ![wowki](https://github.com/user-attachments/assets/c17f4c64-6075-4b8e-bb8e-cde8e42450f6)
+
 
  
 
