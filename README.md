@@ -160,7 +160,7 @@ To display game information such as score and menu on an LCD.
 
  - Arduino.h
    
-   The core library that provides essential functions for the project.
+The core library that provides essential functions for the project.
 
 ##
 ##
@@ -176,11 +176,11 @@ The buzzer uses PWM to generate sounds at the beginning of the game, when eating
 The tone() function uses PWM to control the frequency and duration of the sounds.
 
  -   Lab 4: ADC (Analog-to-Digital Converter)
- -   
-   ADC is used to read the joystick's position.
+    
+ ADC is used to read the joystick's position.
 
  -    Lab 5: SPI (Serial Peripheral Interface)
- -    
+    
  SPI is used to control the LED matrix.
 ##
 
